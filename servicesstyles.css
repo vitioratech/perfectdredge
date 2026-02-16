@@ -102,7 +102,12 @@ html, body {
 }
 
 /* Responsive Adjustments */
-
+.gallery-item figcaption{
+	
+	font-size: 15px;
+    text-align: Center;
+    margin-bottom: 15px;
+}
 .text-container {
     max-width: 900px; /* Limit width for better readability */
     margin: auto; /* Center the text */
